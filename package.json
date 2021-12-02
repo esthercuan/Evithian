@@ -1,0 +1,7 @@
+{
+  "name": "evithian",
+  "version": "1.0.0",
+  "bin": {
+    "evithian": "index.js"
+  }
+}
