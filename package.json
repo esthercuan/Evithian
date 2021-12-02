@@ -3,5 +3,20 @@
   "version": "1.0.0",
   "bin": {
     "evithian": "index.js"
-  }
+  },
+  "description": "A simple script to get my links and bio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esthercuan/Evithian.git"
+  },
+  "author": "Esther Cuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esthercuan/Evithian/issues"
+  },
+  "homepage": "https://github.com/esthercuan/Evithian#readme"
 }
