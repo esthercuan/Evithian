@@ -3,7 +3,7 @@ const clearConsole = require("clear-any-console");
 // Clears the console cross-platform
 clearConsole();
 console.log(`
-    🧸 Esther Cuan
+    🧸 Maria Esther Cuan
 
     An Engineering Manager, Software engineer and Developer advocate. 
     Guiding engineers to success and leading amazing teams. 
