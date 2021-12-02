@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/esthercuan/Evithian/issues"
   },
-  "homepage": "https://github.com/esthercuan/Evithian#readme"
+  "homepage": "https://github.com/esthercuan/Evithian#readme",
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
+  }
 }
